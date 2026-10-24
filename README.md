@@ -8,6 +8,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![App Store](https://img.shields.io/badge/App_Store-NadY_Diet_AI-blue?logo=apple&logoColor=white)](https://apps.apple.com/us/app/nady-ai-calorie-photo-track/id6740164035)
 
+
+
+<p align="center">
+  <img src="./Assets/nady_demo.jpg" alt="NadY FoodVisionAI Banner" width="720" style="border-radius: 12px;">
+</p>
 ---
 
 ## 📱 Live Production App: NadY
